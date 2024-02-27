@@ -1,0 +1,23 @@
+{
+  "name": "cypress_checkout",
+  "version": "1.0.0",
+  "description": "This project contains flow of e-commerce web checkout flow verification",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open":"cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaveshS009/E-Commerce_Cypress.git"
+  },
+  "author": "Bhavesh Somani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaveshS009/E-Commerce_Cypress/issues"
+  },
+  "homepage": "https://github.com/bhaveshS009/E-Commerce_Cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}
